@@ -1,0 +1,26 @@
+{
+    "0103": {
+        "id": "0103",
+        "nombre": "Pony",
+        "cantidad": 30,
+        "precio": 0.4
+    },
+    "0101": {
+        "id": "0101",
+        "nombre": "Pan",
+        "cantidad": 32,
+        "precio": 0.15
+    },
+    "0102": {
+        "id": "0102",
+        "nombre": "Leche",
+        "cantidad": 10,
+        "precio": 1.0
+    },
+    "0104": {
+        "id": "0104",
+        "nombre": "Chocolate",
+        "cantidad": 40,
+        "precio": 0.5
+    }
+}
