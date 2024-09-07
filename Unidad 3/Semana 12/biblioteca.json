@@ -1,0 +1,33 @@
+{
+    "libros": {
+        "0001": {
+            "titulo": "HITORIA DEL FUTURO",
+            "autor": "David Diamond",
+            "categoria": "Conferencista",
+            "isbn": "0001"
+        },
+        "1": {
+            "titulo": "La Biblia",
+            "autor": "Dios",
+            "categoria": "Palabra de Dios",
+            "isbn": "1"
+        }
+    },
+    "usuarios": {
+        "0001": {
+            "nombre": "Carla Rogriguez",
+            "id_usuario": "0001",
+            "libros_prestados": []
+        },
+        "0002": {
+            "nombre": "Juan Lopez",
+            "id_usuario": "0002",
+            "libros_prestados": []
+        },
+        "0003": {
+            "nombre": "Ariel Reinoso",
+            "id_usuario": "0003",
+            "libros_prestados": []
+        }
+    }
+}
